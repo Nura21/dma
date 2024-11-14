@@ -1,0 +1,14 @@
+# Dependency directories
+.vscode/
+node_modules/
+package-lock.json
+public/img/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# files
+files/storage/
